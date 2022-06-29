@@ -11,7 +11,7 @@ local languages = {"Lua","Python","JavaScript","Java","C#","C++","Node","Ruby","
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/333709427519520768)](https://discord.com/users/333709427519520768)
 
-###Current Projects
+<h1 align="center">Current Projects</h1>
 
 NKHUB
 NKHUB SELFBOT

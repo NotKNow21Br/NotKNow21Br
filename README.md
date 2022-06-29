@@ -10,3 +10,9 @@ local languages = {"Lua","Python","JavaScript","Java","C#","C++","Node","Ruby","
 <h3 align="left">Discord</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/333709427519520768)](https://discord.com/users/333709427519520768)
+
+###Current Projects
+
+NKHUB
+NKHUB SELFBOT
+NKyx Executor(Secret Smhhh)

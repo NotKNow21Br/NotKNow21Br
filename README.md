@@ -12,7 +12,6 @@ local languages = {"Lua","Python","JavaScript","Java","C#","C++","Node","Ruby","
 [![Discord Presence](https://lanyard.cnrad.dev/api/333709427519520768)](https://discord.com/users/333709427519520768)
 
 <h1 align="center">Current Projects</h1>
-
-NKHUB
-NKHUB SELFBOT
-NKyx Executor(Secret Smhhh)
+<h3 align="left">NKHUB.lua</h3>
+<h3 align="left">NKHUB SELFBOT.py</h3>
+<h3 align="left">NKyx Executor(Secret Smhhh).exe</h3>

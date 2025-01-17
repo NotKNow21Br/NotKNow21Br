@@ -9,7 +9,7 @@ local languages = {"Lua","Python","JavaScript","Java","C#","C++","Node","Ruby","
 <h1 align="center">Contact</h1>
 <h3 align="left">Discord</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/333709427519520768)](https://discord.com/users/333709427519520768)
+[![Discord Presence](https://lanyard.cnrad.dev/api/333709427519520768)](https://discord.com/users/236246978839838720)
 
 <h1 align="center">Current Projects</h1>
 <h3 align="left">NKHUB.lua</h3>
